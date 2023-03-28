@@ -2,7 +2,7 @@
 
 Conceptualization of a theoretical framework of an AI project related to the development of a mobile application based on agile methodology
 
-Goal: 
+Goals: 
 * Completion of an AI PROJECT FRAMEWORK concerning the development of a mobile application for recommending clothing items based on photos.
 * The mobile application will allow users to take a photo of themselves with their favorite clothes and get recommendations for clothes of the same style in return.
 * The realisation of this project will allow the company to create a new acquisition, communication and sales channel.
